@@ -1,5 +1,3 @@
 # test-repository
 
-this is a test description
-
-this is a new edit from a local computer !
+this is a second new file update !
