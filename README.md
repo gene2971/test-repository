@@ -1,3 +1,2 @@
-# test-repository
-
-this is a second new file update !
+# my very first repo 
+I get finaly the hang of it !
